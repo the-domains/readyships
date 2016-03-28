@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ReadyShips]]></title>
+        <description><![CDATA[ReadyShips]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 18:36:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ready Ships provides education, training, and certification in disaster and emergency management through short term "study at sea" programs.  </p>]]></description>
+            <link>undefinedready-ships-provides-education-training-and-certification/index.html</link>
+            <guid isPermaLink="false">a11a7187-809a-428e-8601-8ceeb6f6b588</guid>
+            <pubDate>Mon, 28 Mar 2016 18:36:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

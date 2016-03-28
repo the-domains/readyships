@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Ready Ships provides education, training, and certification in disaster and emergency management through short term \"study at sea\" programs. \_"
-datePublished: '2016-03-28T18:36:22.971Z'
-dateModified: '2016-03-28T18:35:56.149Z'
+datePublished: '2016-03-28T19:01:08.825Z'
+dateModified: '2016-03-28T18:38:44.205Z'
 title: ''
 author: []
 authors: []

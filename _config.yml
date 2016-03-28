@@ -1,0 +1,28 @@
+name: ReadyShips
+favicon: null
+layout_spectrum: 0.17850476666353643
+typography_spectrum: 0.45874965423718095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1355395691934973
+  lightness: 0.7062322606798261
+  saturation: 0.22958030854351819
+  rhythmicContrast: 0.3140114997513592
+purpose: []

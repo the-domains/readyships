@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Ready Ships provides education, training, and certification in disaster and emergency management through short term \"study at sea\" programs. \_"
-datePublished: '2016-03-28T19:01:08.825Z'
-dateModified: '2016-03-28T18:38:44.205Z'
+datePublished: '2016-03-28T19:27:36.582Z'
+dateModified: '2016-03-28T19:27:11.716Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-28-ready-ships-provides-education-training-and-certification.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-ready-ships-provides-education-training-and-certification.md
-published: true
 url: ready-ships-provides-education-training-and-certification/index.html
 _type: Article
 
